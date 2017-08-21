@@ -1,0 +1,7 @@
+input{
+	background-color: red;
+}
+
+input.inputClass{
+	background-color: blue;
+}
